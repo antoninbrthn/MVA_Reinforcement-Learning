@@ -1,1 +1,2 @@
-# MVA_Reinforcement-Learning
+# MVA Course : Reinforcement Learning
+# Alessandro Lazaric
